@@ -2,7 +2,7 @@
 
 A flutter application based on the youtube tutorial by Bram Vanbilsen.
 
-https://www.youtube.com/channel/UCqibwXKXYPpnPuo5xg5l2xA
+https://www.youtube.com/watch?v=jBBl1tYkUnE
 
 ## Getting Started
 
